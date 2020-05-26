@@ -3,7 +3,7 @@ For running this Application 'Clone'('HTTPS' Preferred ) or 'download' to your l
 
 Then extract and run in your prefered 'Editor' or 'IDE'
 
-If you don't have MYSQl Database then Install MYSQl Workbench.
+If you don't have MYSQL Database then Install MYSQL Workbench.
 
 Then create connection or connect to 'localhost' with 'root' user and if 'password' required provide the appropriate password if root password then provide the password that you have provided at the time of installation of MYSQL.
 
