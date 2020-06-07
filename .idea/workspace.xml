@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YvE48IN2pLir2tZoZQ1Pqv380V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clg_online_class" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python Tkinter Project" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.start_page">
     <configuration name="bill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -175,6 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="0" width="818" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1584517868262" />
+    <state x="274" y="21" key="#Notifications" timestamp="1590639746271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590639746271" />
     <state x="275" y="23" key="#Vim_Emulation" timestamp="1586510607344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -183,30 +190,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="362" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1589808792921" />
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1585548370287">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1590639836343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585548370287" />
-    <state width="1343" height="176" key="GridCell.Tab.0.bottom" timestamp="1590429524397">
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590639836343" />
+    <state width="1343" height="176" key="GridCell.Tab.0.bottom" timestamp="1590507926893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590429524397" />
-    <state width="1343" height="176" key="GridCell.Tab.0.center" timestamp="1590429524397">
+    <state width="1343" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590507926893" />
+    <state width="1343" height="176" key="GridCell.Tab.0.center" timestamp="1590507926893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590429524397" />
-    <state width="1343" height="176" key="GridCell.Tab.0.left" timestamp="1590429524397">
+    <state width="1343" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590507926893" />
+    <state width="1343" height="176" key="GridCell.Tab.0.left" timestamp="1590507926893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590429524397" />
-    <state width="1343" height="176" key="GridCell.Tab.0.right" timestamp="1590429524397">
+    <state width="1343" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590507926893" />
+    <state width="1343" height="176" key="GridCell.Tab.0.right" timestamp="1590507926893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590429524397" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1589809762232">
+    <state width="1343" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590507926893" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1590639815993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589809762232" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590639815993" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1585037131445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
